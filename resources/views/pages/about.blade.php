@@ -1,6 +1,6 @@
 <!-- การเรียกใช้งาน Tempate -->
 @extends('layouts.main_template')
-@section('title') เกี่ยวกับเรา12345 @endsection
+@section('title') เกี่ยวกับเรา @endsection
 @section('content')
 
 <div class="jumbotron">
